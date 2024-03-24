@@ -12,7 +12,7 @@ const router = express.Router()
 
 app.use(
     cors({
-      origin: process.env.FRONTEND_URL,
+      origin: process.env.GATEWAY_URL,
       methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
       allowedHeaders: ["Content-Type"],
       credentials: true,
