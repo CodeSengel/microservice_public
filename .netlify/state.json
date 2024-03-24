@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Guyancourt",
+			"country": {
+				"code": "FR",
+				"name": "France"
+			},
+			"subdivision": {
+				"code": "IDF",
+				"name": "Île-de-France"
+			},
+			"timezone": "Europe/Paris",
+			"latitude": 48.7726,
+			"longitude": 2.0727
+		},
+		"timestamp": 1711274285332
+	}
+}
